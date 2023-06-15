@@ -4,8 +4,8 @@ This document helps answer the question "is this GHAS feature available in my ve
 
 The following tables include notable feature releases for GitHub Advanced Security.  Each row represents a feature.  The columns in the row indicate the level of support for each **supported** Enterprise Server release.  Are your repositories hosted on github.com? All of these features are already available for you :+1:.
 
-- ✅ - Fully supported, GA feature
-- ☑️ - Partially supported or beta feature
+✅ - Fully supported, GA feature
+☑️ - Partially supported or beta feature
 
 |Version  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |---------|-----|-----|-----|-----|-----|
