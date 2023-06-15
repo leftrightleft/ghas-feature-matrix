@@ -1,6 +1,7 @@
 |Version  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |---------|-----|-----|-----|-----|-----|
 |Release date| Mar. 15 2022|  May 31 2022 |Aug. 16 2022 |Nov. 8 2022 |Mar. 7 2023 |
+|| [Release notes](github.com)|[Release notes](github.com)|[Release notes](github.com)|[Release notes](github.com)|[Release notes](github.com)|
 
 ### Secret scanning features
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
