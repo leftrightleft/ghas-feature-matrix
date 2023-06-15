@@ -1,7 +1,8 @@
+### Secret Scanning
+
 |                                       | 3.8          | 3.7      | 3.6        | 3.5        | 3.4        |
 |---------------------------------------|--------------|----------|------------|------------|------------|
-|    Release Date                       | 3/7/2023 | 11/8/2022 | 8/16/2022 | 5/31/2022 | 3/15/2022 |
-|    Release Date                       | Mar. 7 2023 | Nov. 8 2022 | Aug. 16 2022 | May 31 2022 | Mar. 15 2022 |
+| Release Date                       | Mar. 7 2023 | Nov. 8 2022 | Aug. 16 2022 | May 31 2022 | Mar. 15 2022 |
 | Secret Scanning - Docs                | ✅            | ✅        | ✅          | ✅          | ✅          |
 | Partner pattern count                 | 183          | 173      | 173        | 169        | 155        |
 | User defined patterns                 | ✅            | ✅        | ✅          | ✅          | ✅          |
@@ -19,7 +20,12 @@
 | View secret scanning enablement status at the org-level via API | ✅ | ✅ |            |            |            |
 | Enable secret scanning at the enterprise level using the REST API | ✅ |        |            |            |            |
 | Add comment when dismissing a secret scanning alert in UI or API | ✅ |        |            |            |            |
-|                                       |              |          |            |            |            |            |
+
+### Code Scanning
+
+|                                       | 3.8          | 3.7      | 3.6        | 3.5        | 3.4        |
+|---------------------------------------|--------------|----------|------------|------------|------------|
+| Release Date                       | Mar. 7 2023 | Nov. 8 2022 | Aug. 16 2022 | May 31 2022 | Mar. 15 2022 |
 | Code Scanning - Docs                  | ✅            | ✅        | ✅          | ✅          | ✅          |            |
 | "CodeQL ""toolcache"" Installed Version" | 2.11.6    | 2.10.5   | 2.9.4      | 2.8.5      | 2.7.6      |            |
 | "Python, Javascript, Java, Go, C/C++, C#, Typescript" | ✅ | ✅        | ✅          | ✅          | ✅          |            |
@@ -33,7 +39,12 @@
 | Enterprise-wide code scanning alerts via the REST API | ✅ | ✅ |            |            |            |            |
 | Filter API results by severity        | ✅            |          |            |            |            |            |
 | Kotlin language support               | ☑️            |          |            |            |            |            |
-|                                       |              |          |            |            |            |            |
+
+### Supply Chain Security
+
+|                                       | 3.8          | 3.7      | 3.6        | 3.5        | 3.4        |
+|---------------------------------------|--------------|----------|------------|------------|------------|
+| Release Date                       | Mar. 7 2023 | Nov. 8 2022 | Aug. 16 2022 | May 31 2022 | Mar. 15 2022 |
 | Dependency Graph - Docs               | ✅            | ✅        | ✅          | ✅          | ✅          |            |
 | Go modules support                    | ✅            | ✅        | ✅          | ✅          | ✅          |            |
 | Poetry support                        | ✅            | ✅        | ✅          | ✅          | ✅          |            |
@@ -64,7 +75,13 @@
 | Enforcement Action - Docs (excludes scopes/licenses) | ✅ | ✅        | ✅          |            |            |            |
 |                                       |              |          |            |            |            |            |
 | Dependency Submission API - Docs      | ✅            | ✅        |            |            |            |            |
-|                                       |              |          |            |            |            |            |
+
+
+### Management and visibility
+
+|                                       | 3.8          | 3.7      | 3.6        | 3.5        | 3.4        |
+|---------------------------------------|--------------|----------|------------|------------|------------|
+| Release Date                       | Mar. 7 2023 | Nov. 8 2022 | Aug. 16 2022 | May 31 2022 | Mar. 15 2022 |
 | Security Overview - Docs              | ✅            | ✅        | ✅          | ✅          | ✅          |            |
 | Organization view                     | ✅            | ✅        | ✅          | ✅          | ☑️          |            |
 | Enterprise view                       | ✅            | ✅        | ☑️          | ☑️          |            |            |
