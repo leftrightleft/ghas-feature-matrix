@@ -4,19 +4,24 @@ This document helps answer the question "is this GHAS feature available in my ve
 
 The following tables include notable feature releases for GitHub Advanced Security.  Each row represents a feature.  The columns in the row indicate the level of support for each **supported** Enterprise Server release.  Are your repositories hosted on github.com? All of these features are already available for you :+1:.
 
-### Jump to...
+Each section in this document represents a separate capability of of GitHub security features.  
+
+#### Contents
 - [Secret scanning](#secret-scanning)
 - [Code scanning](#code-scanning)
 - [Supply-chain security](#supply-chain-security)
 - [Administrative and Security Overview](#administrative-and-security-overview)
 
-✅: Fully supported, GA feature  ☑️: Partially supported or beta feature
+## Release notes
 |Version  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |---------|-----|-----|-----|-----|-----|
 |Release date| Mar. 15 2022|  May 31 2022 |Aug. 16 2022 |Nov. 8 2022 |Mar. 7 2023 |
 || [Release notes](github.com)|[Release notes](github.com)|[Release notes](github.com)|[Release notes](github.com)|[Release notes](github.com)|
 
-### Secret scanning
+## Secret scanning
+Secret scanning identifies plain text credentials inside your code repository.  Learn more about secret scanning
+* [Secret scanning documentation](https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/about-secret-scanning)
+* [Secret scanning API documentation](https://docs.github.com/en/enterprise-cloud@latest/rest/secret-scanning?apiVersion=2022-11-28)
 
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
@@ -38,7 +43,7 @@ The following tables include notable feature releases for GitHub Advanced Securi
 |Add comment when dismissing a secret scanning alert in UI or API|||||✅|
 
 
-### Code scanning
+## Code scanning
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
 |CodeQL "toolcache" Installed Version|2.7.6|2.8.5|2.9.4|2.10.5|2.11.6|
@@ -54,7 +59,7 @@ The following tables include notable feature releases for GitHub Advanced Securi
 |Filter API results by severity|||||✅|
 |Kotlin language support|||||☑️|
 
-### Supply-chain security
+## Supply-chain security
 
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
@@ -85,7 +90,7 @@ The following tables include notable feature releases for GitHub Advanced Securi
 |Dependency Submission API - Docs||||✅|✅|
 
 
-### Administrative and Security Overview
+## Administrative and Security Overview
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
 |Security Overview - Docs|✅|✅|✅|✅|✅|
