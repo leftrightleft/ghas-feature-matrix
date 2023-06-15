@@ -1,13 +1,10 @@
-|Version  |[3.4](google.com) |3.5 |3.6 |3.7 |3.8 |
+|Version  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |---------|-----|-----|-----|-----|-----|
 |Release date| Mar. 15 2022|  May 31 2022 |Aug. 16 2022 |Nov. 8 2022 |Mar. 7 2023 |
-|Docs | [![name](assets/button_docs.png)](google.com)|[![name](assets/button_docs.png)](google.com)|[![name](assets/button_docs.png)](google.com)|[![name](assets/button_docs.png)](google.com) |[![name](assets/button_docs.png)](google.com) |
 
 ### Secret scanning features
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
-|Version|3.4|3.5|3.6|3.7|3.8|
-|Secret Scanning - Docs|✅|✅|✅|✅|✅|
 |Partner pattern count|155|169|173|173|183|
 |User defined patterns|✅|✅|✅|✅|✅|
 |Enterprise level API for secret scanning|✅|✅|✅|✅|✅|
@@ -29,7 +26,6 @@
 ### Code scanning features
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
-|Code Scanning - Docs|✅|✅|✅|✅|✅|
 |CodeQL "toolcache" Installed Version|2.7.6|2.8.5|2.9.4|2.10.5|2.11.6|
 |Python, Javascript, Java, Go, C/C++, C#, Typescript"|✅|✅|✅|✅|✅|
 |Ruby Support|☑️|☑️|☑️|☑️|✅|
@@ -47,7 +43,6 @@
 
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
-|Dependency Graph - Docs|✅|✅|✅|✅|✅|
 |Go modules support|✅|✅|✅|✅|✅|
 |Poetry support|✅|✅|✅|✅|✅|
 |Cargo support|||✅|✅|✅|
