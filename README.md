@@ -1,3 +1,12 @@
+# GitHub Advanced Security (GHAS) Feature Matrix
+
+This document helps answer the question "is this GHAS feature available in my version of GitHub Enterprise Server?".  
+
+The following tables include notable feature releases for GitHub Advanced Security.  Each row represents a feature.  The columns in the row indicate the level of support for each **supported** Enterprise Server release.  Are your repositories hosted on github.com? All of these features are already available for you :+1:.
+
+- ✅ - Fully supported, GA feature
+- ☑️ - Partially supported or beta feature
+
 |Version  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |---------|-----|-----|-----|-----|-----|
 |Release date| Mar. 15 2022|  May 31 2022 |Aug. 16 2022 |Nov. 8 2022 |Mar. 7 2023 |
