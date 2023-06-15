@@ -4,15 +4,20 @@ This document helps answer the question "is this GHAS feature available in my ve
 
 The following tables include notable feature releases for GitHub Advanced Security.  Each row represents a feature.  The columns in the row indicate the level of support for each **supported** Enterprise Server release.  Are your repositories hosted on github.com? All of these features are already available for you :+1:.
 
-✅ - Fully supported, GA feature
-☑️ - Partially supported or beta feature
+### Jump to...
+- [Secret scanning](#secret-scanning)
+- [Code scanning](#code-scanning)
+- [Supply-chain security](#supply-chain-security)
+- [Administrative and Security Overview](#administrative-and-security-overview)
 
+✅: Fully supported, GA feature  ☑️: Partially supported or beta feature
 |Version  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |---------|-----|-----|-----|-----|-----|
 |Release date| Mar. 15 2022|  May 31 2022 |Aug. 16 2022 |Nov. 8 2022 |Mar. 7 2023 |
 || [Release notes](github.com)|[Release notes](github.com)|[Release notes](github.com)|[Release notes](github.com)|[Release notes](github.com)|
 
-### Secret scanning features
+### Secret scanning
+
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
 |Partner pattern count|155|169|173|173|183|
@@ -33,7 +38,7 @@ The following tables include notable feature releases for GitHub Advanced Securi
 |Add comment when dismissing a secret scanning alert in UI or API|||||✅|
 
 
-### Code scanning features
+### Code scanning
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
 |CodeQL "toolcache" Installed Version|2.7.6|2.8.5|2.9.4|2.10.5|2.11.6|
@@ -49,7 +54,7 @@ The following tables include notable feature releases for GitHub Advanced Securi
 |Filter API results by severity|||||✅|
 |Kotlin language support|||||☑️|
 
-### Supply-chain security features
+### Supply-chain security
 
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
@@ -80,7 +85,7 @@ The following tables include notable feature releases for GitHub Advanced Securi
 |Dependency Submission API - Docs||||✅|✅|
 
 
-### Administrative and visibility features
+### Administrative and Security Overview
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
 |Security Overview - Docs|✅|✅|✅|✅|✅|
