@@ -61,12 +61,13 @@ Secret scanning identifies plain text credentials inside your code repository.  
 
 ## Supply-chain security
 
+#### Dependabot Alerts
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
+|Dependabot Alerts|✅|✅|✅|✅|✅|
 |Go modules support|✅|✅|✅|✅|✅|
 |Poetry support|✅|✅|✅|✅|✅|
 |Cargo support|||✅|✅|✅|
-|Dependabot Alerts - Docs|✅|✅|✅|✅|✅|
 |Ungrouped alerts / alerts per single vulnerability||✅|✅|✅|✅|
 |Reopen dismissed alerts	|||✅|✅|✅|
 |Dependabot alerts show vulnerable function calls - Blog post|||☑️|☑️|☑️|
@@ -82,10 +83,18 @@ Secret scanning identifies plain text credentials inside your code repository.  
 |Suggest improvements to an advisory|||||✅|
 |Labels in the row page act as filters|||||✅|
 |Dependabot alerts REST API endpoint for repository org and enterprise|||||☑️|
-|Dependabot Updates - Docs|☑️|✅|✅|✅|✅|
+
+#### Dependabot Updates
+|Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
+|------------------------------------------------------------|-----|-----|-----|-----|-----|
+|Dependabot Updates|☑️|✅|✅|✅|✅|
 |Actions authors can automatically update dependencies within workflow files|||||✅|
 |Dart and Flutter (using Pub) support for updates|||||✅|
-|Dependency Review - Docs|✅|✅|✅|✅|✅|
+
+#### Dependency Review
+|Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
+|------------------------------------------------------------|-----|-----|-----|-----|-----|
+|Dependency Review|✅|✅|✅|✅|✅|
 |Enforcement Action - Docs (excludes scopes/licenses)|||✅|✅|✅|
 |Dependency Submission API - Docs||||✅|✅|
 
