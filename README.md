@@ -61,7 +61,7 @@
 |Dependabot alert webhooks||||✅|✅|
 |Suggest improvements to an advisory|||||✅|
 |Labels in the row page act as filters|||||✅|
-|"Dependabot alerts REST API endpoint for repository| org| and enterprise"|||||☑️|
+|Dependabot alerts REST API endpoint for repository org and enterprise|||||☑️|
 |Dependabot Updates - Docs|☑️|✅|✅|✅|✅|
 |Actions authors can automatically update dependencies within workflow files|||||✅|
 |Dart and Flutter (using Pub) support for updates|||||✅|
