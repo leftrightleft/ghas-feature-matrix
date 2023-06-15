@@ -1,3 +1,4 @@
+### Secret scanning features
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
 |Version|3.4|3.5|3.6|3.7|3.8|
@@ -20,11 +21,12 @@
 |Add comment when dismissing a secret scanning alert in UI or API|||||✅|
 
 
+### Code scanning features
 |Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
 |------------------------------------------------------------|-----|-----|-----|-----|-----|
 |Code Scanning - Docs|✅|✅|✅|✅|✅|
-|"CodeQL ""toolcache"" Installed Version"|2.7.6|2.8.5|2.9.4|2.10.5|2.11.6|
-|"Python| Javascript| Java| Go| C/C++| C#| Typescript"|✅|✅|✅|✅|✅|
+|CodeQL "toolcache" Installed Version|2.7.6|2.8.5|2.9.4|2.10.5|2.11.6|
+|Python, Javascript, Java, Go, C/C++, C#, Typescript"|✅|✅|✅|✅|✅|
 |Ruby Support|☑️|☑️|☑️|☑️|✅|
 |Apple M1 support for CodeQL|☑️|☑️|☑️|☑️|✅|
 |Org-wide code scanning alerts via the REST API||✅|✅|✅|✅|
@@ -36,13 +38,14 @@
 |Filter API results by severity|||||✅|
 |Kotlin language support|||||☑️|
 
+### Supply-chain security features
 
+|Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
+|------------------------------------------------------------|-----|-----|-----|-----|-----|
 |Dependency Graph - Docs|✅|✅|✅|✅|✅|
 |Go modules support|✅|✅|✅|✅|✅|
 |Poetry support|✅|✅|✅|✅|✅|
 |Cargo support|||✅|✅|✅|
-
-
 |Dependabot Alerts - Docs|✅|✅|✅|✅|✅|
 |Ungrouped alerts / alerts per single vulnerability||✅|✅|✅|✅|
 |Reopen dismissed alerts	|||✅|✅|✅|
@@ -67,6 +70,9 @@
 |Dependency Submission API - Docs||||✅|✅|
 
 
+### Administrative and visibility features
+|Feature  |3.4 |3.5 |3.6 |3.7 |3.8 |
+|------------------------------------------------------------|-----|-----|-----|-----|-----|
 |Security Overview - Docs|✅|✅|✅|✅|✅|
 |Organization view|☑️|✅|✅|✅|✅|
 |Enterprise view||☑️|☑️|✅|✅|
